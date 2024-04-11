@@ -1,1 +1,1 @@
-Construção de um algoritmo do primeiro para a identificação de espaços de memoria.
+Construção de um algoritmo para a identificação de espaços de memoria.
